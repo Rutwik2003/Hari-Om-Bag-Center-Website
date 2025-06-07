@@ -1,0 +1,10 @@
+name:		hawraa atat
+password:	password@_01
+email 		hawraa@gmail.com
+phone:		03045676
+zip code:	14
+
+
+pass my mail201 password@_01
+
+admin admin@gmail.com
